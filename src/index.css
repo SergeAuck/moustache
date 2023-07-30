@@ -160,13 +160,14 @@ img {
 @media (max-width: 576px) {
   .main {
     width: 100%;
-    .btn-content-desktop {
-      display: none;
-    }
+  }
 
-    .btn-content-mobile {
-      display: inline;
-    }
+  .btn-content-desktop {
+    display: none;
+  }
+
+  .btn-content-mobile {
+    display: inline;
   }
 }
 
